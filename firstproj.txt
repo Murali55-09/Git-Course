@@ -1,1 +1,2 @@
 hello everyone this is mine first git projectgit
+additon is done in next steps
